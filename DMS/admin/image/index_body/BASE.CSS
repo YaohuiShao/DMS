@@ -1,0 +1,45 @@
+TD {
+	FONT-SIZE: 9pt; LINE-HEIGHT: 1.5
+}
+BODY {
+	FONT-SIZE: 9pt; SCROLLBAR-SHADOW-COLOR: #deefc6; LINE-HEIGHT: 1.5; SCROLLBAR-ARROW-COLOR: #ffffff; SCROLLBAR-BASE-COLOR: #c0d586
+}
+A:link {
+	FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: red
+}
+.Input_Button{
+	BORDER-RIGHT: 1px solid #a2a2a2;
+	BORDER-TOP: 1px solid #FFFFFF;
+	FONT-SIZE: 12px;
+	BORDER-LEFT: 1px solid #ffffff;
+	COLOR: #333333;
+	BORDER-BOTTOM: 1px solid #a2a2a2;
+	background-color: #CCCCCC;
+}
+.np {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+.linerow {
+	BORDER-BOTTOM: #acacac 1px solid
+}
+.coolbg {
+	BORDER-RIGHT: #acacac 2px solid; BORDER-BOTTOM: #acacac 2px solid; BACKGROUND-COLOR: #e6e6e6
+}
+.coolbg2 {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 18px; BACKGROUND-COLOR: #dfddd2
+}
+.ll {
+	BORDER-RIGHT: #acacac 2px solid; BORDER-BOTTOM: #acacac 2px solid; BACKGROUND-COLOR: #e6e6e6
+}
+.bline {
+	BORDER-BOTTOM: #bcbcbc 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.bline2 {
+	BORDER-BOTTOM: #bcbcbc 1px solid
+}
